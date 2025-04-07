@@ -1,0 +1,158 @@
+[
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.2,
+        "params": {
+            "population_size": 100,
+            "generations": 1000,
+            "mutation_rate": 0.3
+        },
+        "best_cost": 0,
+        "time": 0.0009264945983886719
+    },
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.2,
+        "params": {
+            "population_size": 200,
+            "generations": 2000,
+            "mutation_rate": 0.5
+        },
+        "best_cost": 0,
+        "time": 0.0017852783203125
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.2,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.995,
+            "max_iter": 5000
+        },
+        "best_cost": 0,
+        "time": 0.048882484436035156
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.2,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.99,
+            "max_iter": 10000
+        },
+        "best_cost": 0,
+        "time": 0.02910137176513672
+    },
+    {
+        "algorithm": "ConstraintSatisfaction",
+        "complexity": 0.2,
+        "params": {},
+        "best_cost": 0,
+        "time": 4.6253204345703125e-05,
+        "nodes_explored": 11
+    },
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.5,
+        "params": {
+            "population_size": 100,
+            "generations": 1000,
+            "mutation_rate": 0.3
+        },
+        "best_cost": 0,
+        "time": 0.0008997917175292969
+    },
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.5,
+        "params": {
+            "population_size": 200,
+            "generations": 2000,
+            "mutation_rate": 0.5
+        },
+        "best_cost": 0,
+        "time": 0.0017476081848144531
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.5,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.995,
+            "max_iter": 5000
+        },
+        "best_cost": 0,
+        "time": 0.04767656326293945
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.5,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.99,
+            "max_iter": 10000
+        },
+        "best_cost": 0,
+        "time": 0.028527021408081055
+    },
+    {
+        "algorithm": "ConstraintSatisfaction",
+        "complexity": 0.5,
+        "params": {},
+        "best_cost": 0,
+        "time": 3.790855407714844e-05,
+        "nodes_explored": 11
+    },
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.7,
+        "params": {
+            "population_size": 100,
+            "generations": 1000,
+            "mutation_rate": 0.3
+        },
+        "best_cost": 0,
+        "time": 0.0008897781372070312
+    },
+    {
+        "algorithm": "GeneticAlgorithm",
+        "complexity": 0.7,
+        "params": {
+            "population_size": 200,
+            "generations": 2000,
+            "mutation_rate": 0.5
+        },
+        "best_cost": 0,
+        "time": 0.00171661376953125
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.7,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.995,
+            "max_iter": 5000
+        },
+        "best_cost": 0,
+        "time": 0.053919315338134766
+    },
+    {
+        "algorithm": "SimulatedAnnealing",
+        "complexity": 0.7,
+        "params": {
+            "initial_temperature": 1000,
+            "cooling_rate": 0.99,
+            "max_iter": 10000
+        },
+        "best_cost": 0,
+        "time": 0.03213906288146973
+    },
+    {
+        "algorithm": "ConstraintSatisfaction",
+        "complexity": 0.7,
+        "params": {},
+        "best_cost": 0,
+        "time": 5.841255187988281e-05,
+        "nodes_explored": 11
+    }
+]
